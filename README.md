@@ -11,3 +11,5 @@ Sample Website
 9) i merged the newbranch2 with the main
 10) i merged the newbranch with main and got conflict
 11) i resolved the conflict
+12) i created a new branch from newbranch and named it DevelopNavigation
+13) after editing devleopNavgation, i merged it to the newbranch
